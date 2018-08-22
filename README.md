@@ -1,0 +1,2 @@
+# opinai
+The new technology
